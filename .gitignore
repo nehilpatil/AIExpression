@@ -1,0 +1,18 @@
+# Ignore environment files
+.env
+.env.*
+
+# Ignore node_modules directory (for Node.js projects)
+node_modules/
+
+# Ignore build or dist directories if you're compiling your project
+build/
+dist/
+
+# Ignore OS or editor-specific files
+.DS_Store
+*.log
+
+# Ignore package-lock.json or yarn.lock (optional)
+package-lock.json
+yarn.lock
